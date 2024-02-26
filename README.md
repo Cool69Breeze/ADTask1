@@ -19,11 +19,10 @@
 
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
-https://github.com/Cool69Breeze/ADTask1Python
+https://github.com/Cool69Breeze/ADTask1Python/Task1
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
-
-
+https://github.com/Cool69Breeze/ADTask1Python/Task2
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
